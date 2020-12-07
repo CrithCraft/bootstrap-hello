@@ -2,4 +2,4 @@
 
 Checking bootstrap functional...
 
- <img src="preview.png" width="400" title="hover text">
+ <img src="preview.png" title="hover text">
