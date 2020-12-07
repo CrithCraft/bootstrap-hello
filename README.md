@@ -1,5 +1,5 @@
 # bootstrap-hello
 
-*Checking bootstrap functional...
+*Checking bootstrap functional...*
 
  <img src="preview.png" title="hover text">
